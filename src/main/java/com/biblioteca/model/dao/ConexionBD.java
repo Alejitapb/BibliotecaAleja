@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class ConexionBD {
     // Valores por defecto que serán sobrescritos si se encuentra el archivo de propiedades
-    private static String URL = "jdbc:mysql://localhost:3306/biblioteca";
+    private static String URL = "jdbc:mysql://localhost:3306/Biblioteca";
     private static String USER = "root";
     private static String PASSWORD = "password";
 
